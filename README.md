@@ -1,47 +1,68 @@
-<h1 align="center">Hi there 👋 I'm [whynotexplain]</h1>
-
-<h3 align="center">
-Junior Data Scientist | Machine Learning Enthusiast | Data Analytics
-</h3>
-
-## 🛠 Languages and Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,postgresql,docker,git,fastapi,django"/>
-
-</p>
-
-### Data Science
-
-- NumPy
-- Pandas
-- Polars
-- Matplotlib
-- Plotly
-- Scikit-learn
-- LightGBM
+<h1 align="center">Hi 👋, I'm Egor</h1>
+<h3 align="center">Data Scientist / MLE in the making — turning messy data into models that ship</h3>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-
-<img src = "">
-
+<img src="https://img.shields.io/badge/dynamic-yes-brightgreen?style=for-the-badge&label=Open%20to&color=success" alt="open to work"/>
+<img src="https://img.shields.io/badge/Focus-Classic%20ML%20%7C%20MLE-blueviolet?style=for-the-badge"/>
 </p>
+
+<p align="center">
+<a href="https://github.com/whunotexplain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/whyalwaysawfyy"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.kaggle.com/bigbddgccibrgr"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+</p>
+
+---
+
+### ⚙️ What I work with
+
+**Modeling & ML**
+<p align="left">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square"/>
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBoost-EB0028?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+</p>
+
+**Data**
+<p align="left">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+</p>
+
+**Viz**
+<p align="left">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+</p>
+
+**Engineering**
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=whunotexplain&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=whunotexplain&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whunotexplain&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center"><i>Building ML systems end-to-end — from feature pipeline to metric that means something.</i></p>
