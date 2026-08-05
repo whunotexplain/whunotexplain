@@ -4,6 +4,24 @@
 Junior Data Scientist | Machine Learning Enthusiast | Data Analytics
 </h3>
 
+## 🛠 Languages and Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,postgresql,docker,git,fastapi,django"/>
+
+</p>
+
+### Data Science
+
+- NumPy
+- Pandas
+- Polars
+- Matplotlib
+- Plotly
+- Scikit-learn
+- LightGBM
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
