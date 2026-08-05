@@ -1,1 +1,1 @@
-<StackIcon name="postgresql" />
+![Git](https://shields.io)
