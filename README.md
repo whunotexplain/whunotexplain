@@ -1,6 +1,8 @@
-Hi! I'am whynotexplain
+<h1 align="center">Hi there 👋 I'm [whynotexplain]</h1>
 
-My stack:
+<h3 align="center">
+Junior Data Scientist | Machine Learning Enthusiast | Data Analytics
+</h3>
 
 <p align="center">
 
