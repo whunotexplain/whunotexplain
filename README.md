@@ -1,1 +1,1 @@
-![Git](https://shields.io)
+![Git](<StackIcon name="github" />)
