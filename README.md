@@ -1,3 +1,7 @@
+Hi! I'am whynotexplain
+
+My stack:
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -17,5 +21,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+
+<img src = "">
 
 </p>
