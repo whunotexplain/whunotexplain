@@ -16,16 +16,27 @@
 
 ### ⚙️ What I work with
 
+### ⚙️ What I work with
+
 **Modeling & ML**
+
 <p align="left">
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square"/>
 <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square"/>
 <img src="https://img.shields.io/badge/XGBoost-EB0028?style=flat-square"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+</p>
+
+**Quantitative Finance**
+
+<p align="left">
+<img src="https://img.shields.io/badge/QuantStats-1F6FEB?style=flat-square"/>
 </p>
 
 **Data**
+
 <p align="left">
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square"/>
@@ -33,6 +44,7 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 </p>
+
 
 **Viz**
 <p align="left">
