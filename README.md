@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Egor</h1>
-<h3 align="center">Data Scientist / MLE in the making — turning messy data into models that ship</h3>
+<h3 align="center">Data Analytics / Data Scientist</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/dynamic-yes-brightgreen?style=for-the-badge&label=Open%20to&color=success" alt="open to work"/>
